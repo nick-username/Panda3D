@@ -1,5 +1,5 @@
 ###########################################
-# final5.py
+# final6.py
 # Nick Ratti & Kevin Panasiuk
 #
 # Looks nice, but how about we add some interaction?
